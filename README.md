@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Rodion 👋</h1>
+<h1 align="center">Hey, I'm Ro 👋</h1>
 
 <p align="center">
   <strong>CTO & Co-Founder at CareerSwift | Ex-Solution Architect | AI Engineering</strong><br/>
@@ -6,23 +6,23 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rodionlozovoi/">
+  <a href="https://www.linkedin.com/in/rodion-lozovoi/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.youtube.com/@rodionlozovoi">
+  <!-- <a href="https://www.youtube.com/@rodionlozovoi">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
+  </a> -->
 </p>
 
 ---
 
 ### About me
 
-I'm a **CTO and Co-Founder** at [CareerSwift](https://careerswift.io), where I architect and build the AI engine that helps people land jobs faster. Before that, I worked as a **Solution Architect** designing distributed systems and microservices at scale.
+I'm a **CTO and Co-Founder** at [CareerSwift](https://careerswift.io), where I architect and build the AI engine that helps people land jobs faster. Before that, I worked as a **Solution Architect**.
 
-I also co-founded [Byte&Kite](https://byteandkite.com) — a dev agency focused on AI-driven automation.
+I also founded [Byte&Kite](https://byteandkite.com) — a dev agency focused on AI-driven automation.
 
-My day-to-day spans system design, AI/ML pipelines, and hands-on engineering. I care about clean architecture, developer experience, and shipping things
+My day-to-day spans system design, AI pipelines, and hands-on engineering.
 
 ---
 
@@ -64,24 +64,3 @@ My day-to-day spans system design, AI/ML pipelines, and hands-on engineering. I 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
----
-
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lozovoi-Rodion&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lozovoi-Rodion&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lozovoi-Rodion&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <i>I architect AI-powered products and lead engineering teams. Open to interesting conversations — let's connect.</i>
-</p>
